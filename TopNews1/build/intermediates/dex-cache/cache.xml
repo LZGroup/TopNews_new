@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/util/tools/android-sdk-mac/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/baidu/Downloads/TopNews1/topNews/build/intermediates/pre-dexed/debug/support-v4-18.0.0-b52ee53adab426cb25b0afe45462c429dae99ca0.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/Downloads/TopNews1/topNews/libs/jsoup-1.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="/Users/baidu/Downloads/TopNews1/topNews/build/intermediates/pre-dexed/debug/jsoup-1.7.2-58dca8e4040f1e7bb7303d7cf3a30afdcca6c860.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/Downloads/TopNews1/topNews/build/intermediates/exploded-aar/TopNews1/library_SlidingMenu/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="322dc43fd1c87404afeaad625cc727873fd88bf0">
+        <dex dex="/Users/baidu/Downloads/TopNews1/topNews/build/intermediates/pre-dexed/debug/classes-b7cc1d8da52eff98bb3d7da4f918aeebaed09f32.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/Downloads/TopNews1/topNews/libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="/Users/baidu/Downloads/TopNews1/topNews/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-SNAPSHOT-with-sources-4a8ca6cd3e27ee620730eb036344c2c4c074fbb5.jar" />
+    </item>
+
+</items>
